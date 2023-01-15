@@ -43,7 +43,7 @@ ja:
       log_out: ログアウト
       ago: 前
     flash:
-      successful: "%{name}の %{action} に成功しました"
+      successful: "%{name}を%{action}"
       error: "%{name} の %{action} に失敗しました"
       noaction: アクションが指定されていません
       model_not_found: "モデル '%{model}' が見つかりません"
