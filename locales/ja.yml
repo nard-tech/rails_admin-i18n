@@ -101,7 +101,7 @@ ja:
         title: "%{model_label_plural} のエクスポート"
         menu: エクスポート
         breadcrumb: エクスポート
-        link: "クエリ結果の%{model_label_plural}をエクスポート"
+        link: "%{model_label_plural}のクエリ結果をエクスポート"
         bulk_link: "選択した%{model_label_plural}のエクスポート"
         done: エクスポートしました
       history_index:
